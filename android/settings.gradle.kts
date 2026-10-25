@@ -25,3 +25,4 @@ dependencyResolutionManagement {
 rootProject.name = "nilepay"
 include(":app")
 includeBuild("build-logic")
+include(":core:common")
